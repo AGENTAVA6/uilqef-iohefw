@@ -1,0 +1,29 @@
+.heading{
+    color: aqua;
+    font-size: 30px;
+    margin: 0px;
+}
+.note{
+    font-size: 13px;
+    color: blueviolet;
+}
+h3{
+    background-color: black;
+}
+#lol{
+    color: blue;
+}
+.copy-right-footer{
+    position: fixed;
+    color: #0d05fa;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    text-align: center;
+    line-height: 3;
+    font-size: 20px;
+}
+canvas{
+        background-color: grey ;
+     border-width: 15px;
+}
